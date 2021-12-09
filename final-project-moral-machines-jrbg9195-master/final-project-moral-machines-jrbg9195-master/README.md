@@ -1,16 +1,3 @@
-# COMP90041 - Final Project
-
-This repository contains the skeleton code and test files for the final project submission on GitHub.
-
-Don't know about version control? Click [here](https://www.atlassian.com/git/tutorials/what-is-version-control).
-
-Need a refresher on GitHub? Click [here](https://guides.github.com/activities/hello-world/).
-
-This assignment is due on:
-**5pm (AEDT), November 20, 2020 (late-submission penalties apply).**
-
-Also, make sure to fill in the authorship.txt file.
-
 ## Moral Machines
 The idea of Moral Machines is based on the **Trolley Dilemma**, a fictional scenario presenting a decision-maker with a moral dilemma: choosing ''the lesser of two evils''. The scenario entails an autonomous car whose brakes fail at a pedestrian crossing. As it is too late to relinquish control to the car's passengers, the car needs to make a decision based on the facts available about the situation.
 
