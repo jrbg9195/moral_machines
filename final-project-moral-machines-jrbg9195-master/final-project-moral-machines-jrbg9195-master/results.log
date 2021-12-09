@@ -1,0 +1,1392 @@
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.36
+passengers: 0.80
+human: 0.51
+animal: 0.46
+red: 0.60
+green: 0.58
+pregnant: 0.69
+you: 0.69
+pet: 0.47
+average: 0.70
+athletic: 0.59
+overweight: 0.71
+male: 0.65
+female: 0.72
+doctor: 0.70
+ceo: 0.50
+engineer: 0.89
+police: 0.79
+firefighter: 0.59
+criminal: 0.59
+homeless: 0.61
+unemployed: 0.65
+baby: 0.69
+child: 0.55
+adult: 0.67
+senior: 0.73
+llama: 0.59
+dog: 0.49
+cat: 0.45
+rabbit: 0.43
+horse: 0.36
+goldfish: 0.42
+parrot: 0.50
+--
+average age: 52.46
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.52
+passengers: 0.68
+human: 0.51
+animal: 0.49
+red: 0.61
+green: 0.58
+pregnant: 0.76
+you: 0.72
+pet: 0.52
+average: 0.65
+athletic: 0.69
+overweight: 0.68
+male: 0.71
+female: 0.68
+doctor: 0.92
+ceo: 0.57
+engineer: 0.67
+police: 0.73
+firefighter: 0.72
+criminal: 0.60
+homeless: 0.45
+unemployed: 0.78
+baby: 0.50
+child: 0.64
+adult: 0.66
+senior: 0.71
+cat: 0.42
+rabbit: 0.41
+goldfish: 0.50
+horse: 0.52
+parrot: 0.53
+llama: 0.56
+dog: 0.46
+--
+average age: 52.90
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.43
+passengers: 0.75
+human: 0.52
+animal: 0.46
+red: 0.61
+green: 0.57
+pregnant: 0.81
+you: 0.79
+pet: 0.48
+average: 0.67
+athletic: 0.73
+overweight: 0.67
+male: 0.63
+female: 0.71
+doctor: 0.44
+ceo: 0.74
+engineer: 0.82
+police: 0.72
+firefighter: 0.75
+criminal: 0.68
+homeless: 0.75
+unemployed: 0.64
+baby: 0.46
+child: 0.62
+adult: 0.70
+senior: 0.70
+dog: 0.39
+goldfish: 0.44
+rabbit: 0.50
+parrot: 0.61
+llama: 0.54
+cat: 0.33
+horse: 0.38
+--
+average age: 53.53
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.46
+passengers: 0.72
+human: 0.48
+animal: 0.49
+red: 0.61
+green: 0.56
+pregnant: 0.78
+you: 0.66
+pet: 0.49
+average: 0.71
+athletic: 0.67
+overweight: 0.65
+male: 0.61
+female: 0.68
+doctor: 0.75
+ceo: 0.57
+engineer: 0.86
+police: 0.35
+firefighter: 0.89
+criminal: 0.69
+homeless: 0.68
+unemployed: 0.41
+baby: 0.47
+child: 0.67
+adult: 0.66
+senior: 0.66
+cat: 0.57
+parrot: 0.38
+dog: 0.51
+rabbit: 0.48
+llama: 0.47
+horse: 0.55
+goldfish: 0.48
+--
+average age: 50.42
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.47
+passengers: 0.63
+human: 0.48
+animal: 0.42
+red: 0.52
+green: 0.58
+pregnant: 0.68
+you: 0.69
+pet: 0.42
+average: 0.71
+athletic: 0.61
+overweight: 0.67
+male: 0.70
+female: 0.66
+doctor: 0.76
+ceo: 0.63
+engineer: 0.68
+police: 0.63
+firefighter: 0.57
+criminal: 0.67
+homeless: 0.57
+unemployed: 0.77
+baby: 0.56
+child: 0.69
+adult: 0.65
+senior: 0.64
+cat: 0.49
+parrot: 0.43
+llama: 0.41
+horse: 0.31
+goldfish: 0.43
+dog: 0.45
+rabbit: 0.44
+--
+average age: 49.42
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.48
+passengers: 0.74
+human: 0.51
+animal: 0.48
+red: 0.61
+green: 0.59
+pregnant: 0.89
+you: 0.69
+pet: 0.44
+average: 0.72
+athletic: 0.65
+overweight: 0.64
+male: 0.69
+female: 0.68
+doctor: 0.65
+ceo: 0.71
+engineer: 0.80
+police: 0.64
+firefighter: 0.80
+criminal: 0.80
+homeless: 0.57
+unemployed: 0.80
+baby: 0.56
+child: 0.65
+adult: 0.72
+senior: 0.64
+goldfish: 0.50
+horse: 0.48
+llama: 0.36
+parrot: 0.39
+dog: 0.56
+cat: 0.63
+rabbit: 0.44
+--
+average age: 51.69
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.46
+passengers: 0.70
+human: 0.50
+animal: 0.45
+red: 0.59
+green: 0.58
+pregnant: 0.79
+you: 0.70
+pet: 0.48
+average: 0.78
+athletic: 0.63
+overweight: 0.66
+male: 0.65
+female: 0.71
+doctor: 0.70
+ceo: 0.64
+engineer: 0.68
+police: 0.75
+firefighter: 0.73
+criminal: 0.52
+homeless: 0.67
+unemployed: 0.78
+baby: 0.73
+child: 0.71
+adult: 0.68
+senior: 0.63
+cat: 0.47
+llama: 0.42
+goldfish: 0.46
+horse: 0.42
+rabbit: 0.50
+dog: 0.45
+parrot: 0.43
+--
+average age: 48.77
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.47
+passengers: 0.71
+human: 0.51
+animal: 0.46
+red: 0.59
+green: 0.59
+pregnant: 0.75
+you: 0.71
+pet: 0.47
+average: 0.66
+athletic: 0.63
+overweight: 0.75
+male: 0.72
+female: 0.70
+doctor: 0.67
+ceo: 0.76
+engineer: 0.77
+police: 0.56
+firefighter: 0.73
+criminal: 0.50
+homeless: 0.61
+unemployed: 0.65
+baby: 0.73
+child: 0.62
+adult: 0.66
+senior: 0.71
+rabbit: 0.50
+parrot: 0.43
+horse: 0.43
+dog: 0.53
+llama: 0.37
+cat: 0.52
+goldfish: 0.44
+--
+average age: 49.57
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.51
+passengers: 0.63
+human: 0.50
+animal: 0.42
+red: 0.57
+green: 0.57
+pregnant: 0.68
+you: 0.81
+pet: 0.41
+average: 0.74
+athletic: 0.65
+overweight: 0.63
+male: 0.64
+female: 0.67
+doctor: 0.64
+ceo: 0.77
+engineer: 0.68
+police: 0.46
+firefighter: 0.67
+criminal: 0.50
+homeless: 0.67
+unemployed: 0.71
+baby: 0.73
+child: 0.63
+adult: 0.66
+senior: 0.70
+horse: 0.56
+goldfish: 0.34
+rabbit: 0.44
+cat: 0.41
+parrot: 0.47
+dog: 0.34
+llama: 0.31
+--
+average age: 50.47
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.47
+passengers: 0.71
+human: 0.53
+animal: 0.44
+red: 0.59
+green: 0.58
+pregnant: 0.85
+you: 0.65
+pet: 0.51
+average: 0.71
+athletic: 0.72
+overweight: 0.72
+male: 0.67
+female: 0.70
+doctor: 0.70
+ceo: 0.81
+engineer: 0.61
+police: 0.88
+firefighter: 0.69
+criminal: 0.68
+homeless: 0.68
+unemployed: 0.60
+baby: 0.67
+child: 0.71
+adult: 0.71
+senior: 0.66
+horse: 0.50
+goldfish: 0.40
+rabbit: 0.37
+parrot: 0.42
+dog: 0.46
+llama: 0.55
+cat: 0.38
+--
+average age: 52.98
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.56
+passengers: 0.60
+human: 0.48
+animal: 0.48
+red: 0.60
+green: 0.55
+pregnant: 0.79
+you: 0.76
+pet: 0.51
+average: 0.65
+athletic: 0.65
+overweight: 0.67
+male: 0.64
+female: 0.71
+doctor: 0.54
+ceo: 0.80
+engineer: 0.47
+police: 0.81
+firefighter: 0.54
+criminal: 0.81
+homeless: 0.76
+unemployed: 0.60
+baby: 0.50
+child: 0.63
+adult: 0.68
+senior: 0.62
+horse: 0.59
+dog: 0.40
+llama: 0.47
+cat: 0.53
+goldfish: 0.37
+rabbit: 0.46
+parrot: 0.55
+--
+average age: 51.58
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.42
+passengers: 0.71
+human: 0.47
+animal: 0.45
+red: 0.57
+green: 0.56
+pregnant: 0.75
+you: 0.78
+pet: 0.50
+average: 0.61
+athletic: 0.62
+overweight: 0.63
+male: 0.66
+female: 0.62
+doctor: 0.62
+ceo: 0.57
+engineer: 0.70
+police: 0.76
+firefighter: 0.58
+criminal: 0.74
+homeless: 0.66
+unemployed: 0.48
+baby: 0.63
+child: 0.62
+adult: 0.64
+senior: 0.59
+rabbit: 0.41
+dog: 0.49
+goldfish: 0.47
+horse: 0.43
+cat: 0.42
+llama: 0.44
+parrot: 0.50
+--
+average age: 52.83
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.49
+passengers: 0.66
+human: 0.48
+animal: 0.47
+red: 0.57
+green: 0.59
+pregnant: 0.68
+you: 0.68
+pet: 0.48
+average: 0.59
+athletic: 0.64
+overweight: 0.70
+male: 0.62
+female: 0.64
+doctor: 0.63
+ceo: 0.69
+engineer: 0.68
+police: 0.57
+firefighter: 0.64
+criminal: 0.69
+homeless: 0.78
+unemployed: 0.59
+baby: 0.90
+child: 0.54
+adult: 0.67
+senior: 0.60
+rabbit: 0.50
+dog: 0.56
+goldfish: 0.36
+horse: 0.40
+llama: 0.46
+cat: 0.59
+parrot: 0.41
+--
+average age: 50.32
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.40
+passengers: 0.75
+human: 0.51
+animal: 0.47
+red: 0.60
+green: 0.57
+pregnant: 0.73
+you: 0.72
+pet: 0.48
+average: 0.70
+athletic: 0.67
+overweight: 0.62
+male: 0.68
+female: 0.72
+doctor: 0.76
+ceo: 0.63
+engineer: 0.64
+police: 0.78
+firefighter: 0.65
+criminal: 0.70
+homeless: 0.67
+unemployed: 0.71
+baby: 0.50
+child: 0.68
+adult: 0.70
+senior: 0.65
+horse: 0.45
+cat: 0.57
+llama: 0.37
+parrot: 0.45
+dog: 0.50
+goldfish: 0.43
+rabbit: 0.46
+--
+average age: 49.34
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.52
+passengers: 0.68
+human: 0.47
+animal: 0.52
+red: 0.60
+green: 0.58
+pregnant: 0.65
+you: 0.66
+pet: 0.48
+average: 0.58
+athletic: 0.73
+overweight: 0.65
+male: 0.65
+female: 0.64
+doctor: 0.59
+ceo: 0.64
+engineer: 0.81
+police: 0.64
+firefighter: 0.70
+criminal: 0.50
+homeless: 0.70
+unemployed: 0.69
+baby: 0.61
+child: 0.54
+adult: 0.64
+senior: 0.69
+llama: 0.58
+cat: 0.56
+horse: 0.42
+rabbit: 0.40
+parrot: 0.58
+goldfish: 0.47
+dog: 0.58
+--
+average age: 50.45
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.41
+passengers: 0.75
+human: 0.54
+animal: 0.40
+red: 0.58
+green: 0.56
+pregnant: 0.61
+you: 0.72
+pet: 0.37
+average: 0.67
+athletic: 0.64
+overweight: 0.70
+male: 0.76
+female: 0.68
+doctor: 0.70
+ceo: 0.63
+engineer: 0.82
+police: 0.57
+firefighter: 0.78
+criminal: 0.73
+homeless: 0.65
+unemployed: 0.62
+baby: 0.69
+child: 0.73
+adult: 0.69
+senior: 0.70
+llama: 0.34
+rabbit: 0.50
+cat: 0.41
+horse: 0.37
+dog: 0.35
+parrot: 0.43
+goldfish: 0.37
+--
+average age: 50.00
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 0 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.50
+passengers: 0.66
+human: 0.52
+animal: 0.43
+red: 0.56
+green: 0.60
+pregnant: 0.52
+you: 0.71
+pet: 0.46
+average: 0.63
+athletic: 0.64
+overweight: 0.74
+male: 0.70
+female: 0.65
+doctor: 0.75
+ceo: 0.65
+engineer: 0.88
+police: 0.67
+firefighter: 0.31
+criminal: 0.55
+homeless: 0.71
+unemployed: 0.57
+baby: 0.65
+child: 0.69
+adult: 0.67
+senior: 0.72
+parrot: 0.43
+rabbit: 0.42
+goldfish: 0.40
+dog: 0.51
+horse: 0.36
+llama: 0.48
+cat: 0.37
+--
+average age: 51.51
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.38
+passengers: 0.79
+human: 0.50
+animal: 0.48
+red: 0.59
+green: 0.58
+pregnant: 0.81
+you: 0.67
+pet: 0.44
+average: 0.63
+athletic: 0.76
+overweight: 0.64
+male: 0.57
+female: 0.77
+doctor: 0.75
+ceo: 0.71
+engineer: 0.73
+police: 0.64
+firefighter: 0.67
+criminal: 0.52
+homeless: 0.71
+unemployed: 0.71
+baby: 0.76
+child: 0.66
+adult: 0.67
+senior: 0.64
+parrot: 0.57
+dog: 0.50
+llama: 0.40
+cat: 0.40
+rabbit: 0.51
+goldfish: 0.47
+horse: 0.49
+--
+average age: 46.93
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.42
+passengers: 0.71
+human: 0.50
+animal: 0.43
+red: 0.58
+green: 0.54
+pregnant: 0.65
+you: 0.72
+pet: 0.50
+average: 0.68
+athletic: 0.73
+overweight: 0.68
+male: 0.66
+female: 0.68
+doctor: 0.45
+ceo: 0.65
+engineer: 0.29
+police: 0.50
+firefighter: 0.75
+criminal: 0.61
+homeless: 0.81
+unemployed: 0.69
+baby: 0.64
+child: 0.62
+adult: 0.60
+senior: 0.81
+rabbit: 0.48
+goldfish: 0.29
+parrot: 0.43
+horse: 0.46
+cat: 0.45
+dog: 0.46
+llama: 0.36
+--
+average age: 52.80
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.42
+passengers: 0.77
+human: 0.51
+animal: 0.48
+red: 0.58
+green: 0.60
+pregnant: 0.75
+you: 0.73
+pet: 0.45
+average: 0.67
+athletic: 0.66
+overweight: 0.73
+male: 0.73
+female: 0.63
+doctor: 0.85
+ceo: 0.77
+engineer: 0.61
+police: 0.77
+firefighter: 0.56
+criminal: 0.62
+homeless: 0.79
+unemployed: 0.76
+baby: 0.50
+child: 0.49
+adult: 0.71
+senior: 0.72
+goldfish: 0.66
+dog: 0.44
+parrot: 0.27
+rabbit: 0.46
+cat: 0.56
+horse: 0.43
+llama: 0.50
+--
+average age: 51.06
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.43
+passengers: 0.73
+human: 0.51
+animal: 0.44
+red: 0.61
+green: 0.56
+pregnant: 0.82
+you: 0.73
+pet: 0.49
+average: 0.69
+athletic: 0.65
+overweight: 0.71
+male: 0.70
+female: 0.67
+doctor: 0.75
+ceo: 0.68
+engineer: 0.75
+police: 0.64
+firefighter: 0.73
+criminal: 0.55
+homeless: 0.71
+unemployed: 0.69
+baby: 0.53
+child: 0.68
+adult: 0.69
+senior: 0.69
+rabbit: 0.37
+goldfish: 0.50
+parrot: 0.49
+llama: 0.44
+horse: 0.46
+dog: 0.38
+cat: 0.45
+--
+average age: 52.12
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.47
+passengers: 0.68
+human: 0.49
+animal: 0.47
+red: 0.60
+green: 0.55
+pregnant: 0.65
+you: 0.76
+pet: 0.48
+average: 0.75
+athletic: 0.59
+overweight: 0.64
+male: 0.71
+female: 0.60
+doctor: 0.63
+ceo: 0.58
+engineer: 0.62
+police: 0.38
+firefighter: 0.63
+criminal: 0.74
+homeless: 0.82
+unemployed: 0.50
+baby: 0.67
+child: 0.74
+adult: 0.64
+senior: 0.66
+horse: 0.46
+rabbit: 0.48
+dog: 0.45
+parrot: 0.48
+llama: 0.46
+cat: 0.52
+goldfish: 0.41
+--
+average age: 48.63
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.39
+passengers: 0.76
+human: 0.54
+animal: 0.42
+red: 0.57
+green: 0.59
+pregnant: 0.85
+you: 0.69
+pet: 0.41
+average: 0.79
+athletic: 0.70
+overweight: 0.68
+male: 0.68
+female: 0.76
+doctor: 0.81
+ceo: 0.77
+engineer: 0.55
+police: 0.78
+firefighter: 0.60
+criminal: 0.84
+homeless: 0.81
+unemployed: 0.85
+baby: 0.63
+child: 0.67
+adult: 0.76
+senior: 0.62
+rabbit: 0.34
+goldfish: 0.47
+horse: 0.42
+llama: 0.41
+cat: 0.52
+dog: 0.35
+parrot: 0.48
+--
+average age: 49.03
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.38
+passengers: 0.74
+human: 0.48
+animal: 0.45
+red: 0.56
+green: 0.57
+pregnant: 0.73
+you: 0.74
+pet: 0.47
+average: 0.58
+athletic: 0.65
+overweight: 0.66
+male: 0.63
+female: 0.64
+doctor: 0.71
+ceo: 0.44
+engineer: 0.76
+police: 0.59
+firefighter: 0.60
+criminal: 0.68
+homeless: 0.65
+unemployed: 0.72
+baby: 0.78
+child: 0.70
+adult: 0.65
+senior: 0.60
+parrot: 0.37
+cat: 0.46
+goldfish: 0.44
+dog: 0.41
+llama: 0.56
+horse: 0.46
+rabbit: 0.48
+--
+average age: 49.44
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.52
+passengers: 0.64
+human: 0.49
+animal: 0.46
+red: 0.58
+green: 0.58
+pregnant: 0.81
+you: 0.70
+pet: 0.46
+average: 0.59
+athletic: 0.70
+overweight: 0.63
+male: 0.68
+female: 0.72
+doctor: 0.71
+ceo: 0.61
+engineer: 0.50
+police: 0.57
+firefighter: 0.59
+criminal: 0.85
+homeless: 0.64
+unemployed: 0.73
+baby: 0.46
+child: 0.69
+adult: 0.67
+senior: 0.65
+parrot: 0.45
+goldfish: 0.31
+cat: 0.47
+dog: 0.45
+horse: 0.41
+rabbit: 0.59
+llama: 0.54
+--
+average age: 50.77
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.42
+passengers: 0.68
+human: 0.47
+animal: 0.43
+red: 0.55
+green: 0.56
+pregnant: 0.74
+you: 0.70
+pet: 0.47
+average: 0.64
+athletic: 0.64
+overweight: 0.62
+male: 0.67
+female: 0.63
+doctor: 0.71
+ceo: 0.75
+engineer: 0.55
+police: 0.58
+firefighter: 0.56
+criminal: 0.65
+homeless: 0.62
+unemployed: 0.61
+baby: 0.57
+child: 0.74
+adult: 0.62
+senior: 0.65
+llama: 0.54
+dog: 0.43
+parrot: 0.56
+horse: 0.18
+rabbit: 0.43
+goldfish: 0.57
+cat: 0.37
+--
+average age: 53.22
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.71
+pregnant: 0.00
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.42
+passengers: 0.72
+human: 0.51
+animal: 0.43
+red: 0.58
+green: 0.57
+pregnant: 0.71
+you: 0.70
+pet: 0.43
+average: 0.67
+athletic: 0.68
+overweight: 0.68
+male: 0.70
+female: 0.65
+doctor: 0.78
+ceo: 0.59
+engineer: 0.58
+police: 0.67
+firefighter: 0.71
+criminal: 0.61
+homeless: 0.61
+unemployed: 0.65
+baby: 0.80
+child: 0.76
+adult: 0.65
+senior: 0.66
+rabbit: 0.56
+llama: 0.44
+parrot: 0.42
+horse: 0.45
+cat: 0.32
+dog: 0.38
+goldfish: 0.40
+--
+average age: 47.86
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.67
+green: 0.75
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.67
+passengers: 0.75
+human: 0.56
+red: 0.67
+green: 0.75
+you: 1.00
+average: 0.75
+athletic: 0.50
+overweight: 1.00
+male: 0.67
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 2 RUNS
+pedestrians: 0.50
+passengers: 0.75
+human: 0.45
+red: 0.67
+green: 0.60
+you: 1.00
+average: 0.75
+athletic: 0.33
+overweight: 1.00
+male: 0.50
+female: 0.75
+doctor: 1.00
+ceo: 0.00
+criminal: 0.00
+unemployed: 1.00
+baby: 1.00
+child: 0.00
+adult: 0.60
+--
+average age: 19.40
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 10 RUNS
+pedestrians: 0.62
+passengers: 0.54
+human: 0.45
+animal: 0.38
+red: 0.58
+green: 0.56
+you: 0.50
+pet: 0.50
+average: 0.67
+athletic: 0.64
+overweight: 0.56
+male: 0.68
+female: 0.53
+doctor: 0.86
+ceo: 0.25
+criminal: 0.78
+homeless: 0.75
+unemployed: 0.55
+baby: 0.40
+child: 0.69
+adult: 0.63
+senior: 0.58
+dog: 0.33
+ferret: 0.30
+cat: 0.50
+--
+average age: 35.85
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 100 RUNS
+pedestrians: 0.74
+passengers: 0.53
+human: 0.48
+animal: 0.58
+red: 0.66
+green: 0.62
+you: 0.62
+pet: 0.62
+average: 0.66
+athletic: 0.67
+overweight: 0.63
+male: 0.70
+female: 0.61
+doctor: 0.72
+ceo: 0.66
+criminal: 0.58
+homeless: 0.67
+unemployed: 0.67
+baby: 0.61
+child: 0.66
+adult: 0.65
+senior: 0.66
+cat: 0.50
+dog: 0.65
+ferret: 0.58
+--
+average age: 40.69
